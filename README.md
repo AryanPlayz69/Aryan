@@ -25,18 +25,10 @@
 
 ---
 
-### 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanPlayz69&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 💻 Projects
 
-- **[Project Name](https://github.com/your-username/project-name)** - A brief description of what the project does.
-- **[Another Project](https://github.com/your-username/another-project)** - A brief description of what the project does.
+- **[LOCK N LOADED]([https://github.com/your-username/project-name](https://replit.com/@AltAccount65/LOCK-N-LOADED))** - A brief description of what the project does.
+- **[FORZA MUSIC]([https://github.com/your-username/another-project](https://replit.com/@AltAccount65/FORZA-MUSIC))** - A brief description of what the project does.
 
 ---
 
