@@ -1,5 +1,5 @@
 <!-- Header with animated waving hand -->
-<h1 align="center">Hi there, I'm <a href="https://github.com/AryanPlayz69">Your Name</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/AryanPlayz69">Aryan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <!-- Typing animation -->
 <p align="center">
