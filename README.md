@@ -27,17 +27,19 @@
 
 ### 💻 Projects
 
-- **[LOCK N LOADED]([https://github.com/your-username/project-name](https://replit.com/@AltAccount65/LOCK-N-LOADED))** - A brief description of what the project does.
-- **[FORZA MUSIC]([https://github.com/your-username/another-project](https://replit.com/@AltAccount65/FORZA-MUSIC))** - A brief description of what the project does.
+- **LOCK N LOADED** 
+- **FORZA MUSIC**
+- **Galaxite**
+- **GAlaxite Website**
 
 ---
 
 ### 💬 Connect with me!
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/yourusername"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourusername"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:aryanaggarwal182310@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/AryanZone69"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/aryanaggarwal182310"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
