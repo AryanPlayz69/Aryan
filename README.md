@@ -1,10 +1,9 @@
 <!-- Header with animated waving hand -->
-<h1 align="center">Hi there, I'm <a href="https://github.com/your-username">Your Name</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/AryanPlayz69">Your Name</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <!-- Typing animation -->
 <p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20developer;JavaScript%20enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50">
+  <a href="https://github.com/AryanPlayz69">
   </a>
 </p>
 
